@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+}
+
+#canvas1 {
+    border: 1px solid white;
+    width: 600px;
+    height: 600px;
+    position: relative;
+}
+
+#container {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    width: 600px;
+}
+
+#slider {
+    width: 100%;
+}
+p {
+    font-size: 19px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
